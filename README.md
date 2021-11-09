@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Holly(:
-- 🔭 I’m currently working on CAS - https://www.cas-art.me/
+- 🔭 I’m currently working on CAS - http://www.cas-art.me/
 - 🖼 I'm currently living in Edinburgh studying History of Art
 - 🌱 I’m currently learning - Javascript!
 - 💞 My personal project is the Contemporary Arts Society at Edinburgh University - https://www.instagram.com/contemporary_arts_soc/
